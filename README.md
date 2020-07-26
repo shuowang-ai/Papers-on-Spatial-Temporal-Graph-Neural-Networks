@@ -1,4 +1,4 @@
-# A-Paper-List-of-Spatial-Temporal-Graph-Neural-Networks
+# Papers-on-Spatial-Temporal-Graph-Neural-Networks
 
 ## Relative Paper List
 
@@ -13,3 +13,5 @@
 - https://github.com/naganandy/graph-based-deep-learning-literature
 - https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress
 - https://github.com/jwwthu/GNN4Traffic
+- https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications
+- https://github.com/xinychen/transdim
