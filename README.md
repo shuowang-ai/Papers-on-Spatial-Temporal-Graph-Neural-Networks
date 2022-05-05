@@ -2,6 +2,7 @@
 
 ## Relative Paper List
 
+- https://github.com/TatsuyaD7/Time-Series-Work-Conference
 - https://github.com/terryum/awesome-deep-learning-papers#understanding--generalization--transfer
 - https://github.com/thunil/Physics-Based-Deep-Learning
 - https://github.com/Zymrael/awesome-neural-ode
